@@ -1,6 +1,3 @@
 # hello-world
 
-Some text
-
-
-Lots more text with different stuff
+Some text that has changed
